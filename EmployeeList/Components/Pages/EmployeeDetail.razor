@@ -1,0 +1,29 @@
+@page "/employeeDetail/{id}"
+
+@inherits Bases.EmployeeDetail
+
+
+@if(employee== null){
+    <div class="spinner"></div>
+}else{
+    <div class="row justify-content-center m-3">
+        <div class="col-sm-5">
+            <div class="card-header">
+                <h1>@employee.Id @employee.Name</h1>
+            </div>
+            <div class="card-body text-center">
+                <h4>Staff ID: @employee.Id</h4>
+                <h4>Address: @employee.Address</h4>
+                <h4>Starting Date: @employee.StartDate</h4>
+                <h4>Department: @employee.DepartmentId</h4>
+            </div>
+
+
+            <div class="card-footer">
+                <a href="/employeeList" class="btn btn-primary"> Back</a>
+
+            </div>
+        </div>
+
+    </div>
+}

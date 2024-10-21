@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\.NET\\TestBlazor\\EmployeeList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmployeeList.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmployeeList.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\.NET\\TestBlazor\\EmployeeList\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\.NET\\TestBlazor\\EmployeeList\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\.NET\\TestBlazor\\EmployeeList\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET\\TestBlazor\\EmployeeList\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeList.props",
+      "PackagePath": "build\\EmployeeList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeList.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeList.props",
+      "PackagePath": "buildTransitive\\EmployeeList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
